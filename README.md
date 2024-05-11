@@ -1,6 +1,5 @@
 # Chat Bot - Projeto da Imersão de Inteligência Artificial da Alura
-&nbsp;&nbsp;&nbsp;
-Este repositório contém o código-fonte de um chat bot desenvolvido durante a Imersão de Inteligência Artificial da Alura, utilizando o ambiente do Google Colab.
+&nbsp;&nbsp;&nbsp;Este repositório contém o código-fonte de um chat bot desenvolvido durante a Imersão de Inteligência Artificial da Alura, utilizando o ambiente do Google Colab.
 &nbsp;
 ### DESCRIÇÂO DO PROJETO
 &nbsp;
@@ -10,8 +9,8 @@ O projeto consiste em um chat bot que utiliza técnicas de Processamento de Ling
    <ul>
       <li>Respostas automatizadas: O bot é capaz de responder a perguntas comuns e fornecer informações relevantes com base nas entradas dos usuários.</li>
       <li>Personalização: O código pode ser facilmente personalizado e expandido para adicionar novas funcionalidades e melhorar a experiência do usuário.</li>
-      <li> Integração com APIs: Pode-se integrar o bot com APIs externas para fornecer informações em tempo real ou realizar ações específicas.
-  Personalização: O código pode ser facilmente personalizado e expandido para adicionar novas funcionalidades e melhorar a experiência do usuário.</li>
+      <li> Integração com APIs: Pode-se integrar o bot com APIs externas para fornecer informações em tempo real ou realizar ações específicas.</li>
+  <li>Personalização: O código pode ser facilmente personalizado e expandido para adicionar novas funcionalidades e melhorar a experiência do usuário.</li>
        </ul>
      &nbsp;
        TECNOLOGIAS UTILIZADAS
